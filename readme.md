@@ -30,25 +30,32 @@ Este proyecto se centra en el **desarrollo de un modelo de Machine Learning para
    - Variables climáticas  
    - Información socioeconómica por barrio  
 
-2. **Análisis Exploratorio de Datos (EDA):**  
+2. **Limpieza y preparación de Datos (DataCleaning):**
+    - Integración de datos de diferentes fuentes
+    - Tratamiento de valores faltantes.
+    - Transformación de variables.
+    - Creación de nuevas variables
+
+3. **Análisis Exploratorio de Datos (EDA):**  
    - Identificación de patrones delictivos  
    - Análisis de correlaciones  
    - Detección de outliers  
 
-3. **Ingeniería de Características:**  
+4. **Ingeniería de Características:**  
    - Encoding de variables categóricas  
    - Creación de nuevas variables (features)  
    - Análisis de importancia de variables  
 
-4. **Modelado Predictivo:**  
+5. **Modelado Predictivo:**  
    - Entrenamiento de modelos supervisados  
    - Optimización de hiperparámetros con Optuna  
    - Evaluación con métricas de rendimiento (AUC, F1-Score, Recall, Precision)  
 
-5. **Evaluación del Modelo:**  
-   - Análisis de la curva ROC  
+6. **Evaluación del Modelo:**  
+   - Análisis de la curva ROC 
+   - Análisis del sobreajuste 
    - Optimización de umbral de clasificación  
-   - Análisis del sobreajuste  
+   - Evaluación de métricas  
 
 ---
 
