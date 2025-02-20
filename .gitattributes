@@ -1,0 +1,2 @@
+Data/raw/otros-delitos.csv filter=lfs diff=lfs merge=lfs -text
+data/archivo.csv filter=lfs diff=lfs merge=lfs -text
